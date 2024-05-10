@@ -10,7 +10,7 @@ import lombok.*;
 @Entity
 @Getter
 @Setter
-@Table(name = "product")
+//@Table(name = "product")
 public class Product {
 
     @Id
