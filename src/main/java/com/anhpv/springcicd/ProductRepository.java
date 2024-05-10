@@ -1,6 +1,6 @@
-package com.anhpv.springcicd;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-public interface ProductRepository extends JpaRepository<Product, Long> {
-}
+//package com.anhpv.springcicd;
+//
+//import org.springframework.data.jpa.repository.JpaRepository;
+//
+//public interface ProductRepository extends JpaRepository<Product, Long> {
+//}
